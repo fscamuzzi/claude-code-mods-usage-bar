@@ -1,0 +1,12 @@
+{
+  "name": "coolsolution-mods",
+  "description": "Companion marketplace for the Cool Solution tutorial on Claude Code mods",
+  "owner": { "name": "Federico Scamuzzi" },
+  "plugins": [
+    {
+      "name": "usage-bar",
+      "source": "./usage-bar",
+      "description": "Mini progress bars above the prompt with the remaining plan usage"
+    }
+  ]
+}

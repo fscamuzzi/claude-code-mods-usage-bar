@@ -1,0 +1,10 @@
+{
+  "name": "usage-bar",
+  "version": "0.1.0",
+  "description": "Mini progress bars above the prompt with the remaining plan usage",
+  "author": { "name": "Federico Scamuzzi" },
+  "homepage": "https://cool-solution.com/en/blog/claude-code-mods-usage-bar-tutorial-2026",
+  "repository": "https://github.com/fscamuzzi/claude-code-mods-usage-bar",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
