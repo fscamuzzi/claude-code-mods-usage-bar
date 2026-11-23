@@ -117,7 +117,7 @@ The mod does not call `$.fs`, `$.process` or `$.http`: it reads the usage, keeps
 
 - The bars do not adapt to a narrow terminal. A fuller version would fit them to `e.props.bodyColumns` and to the band's `maxRows`.
 - Before the first response of a session there is no reading, so the band stays empty.
-- The events and methods of the mods API can change between Claude Code releases. This code was validated and tested with Claude Code 2.1.322.
+- The events and methods of the mods API can change between Claude Code releases. This code was validated and tested with Claude Code 2.1.330.
 
 ## License
 

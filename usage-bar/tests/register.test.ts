@@ -2,6 +2,7 @@ import { expect, mock, test } from 'claude-code/testing'
 
 const PROPS = {
   hasSurvey: false,
+  isCollapsed: false,
   isWorking: false,
   maxRows: 10,
   bodyColumns: 120,
